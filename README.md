@@ -8,6 +8,7 @@ evaluating its performance using a confusion matrix and classification report.
 
 ## Results
 **Question:** How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
+
 **Answer:** The model makes perfect predictions for the healthy loans label as all of the precision, recall, and f1-score classification reports are 1. It has very high precision, recall, and f1-score for high-risk loan labels. One thing to note is that the data is not perfectly balanced so the model could vary depending on the dataset.
 
 ## Summary
